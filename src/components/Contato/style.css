@@ -1,0 +1,33 @@
+#contato {
+    background-color: rgb(1, 1, 23);
+    padding: 20px;
+}
+
+.container-contato {
+    text-align: center;
+    color: #fff;
+}
+
+.container-contato__listas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.container-contato__lista {
+    list-style: none;
+    text-align: left;
+    margin: 0 20px;
+}
+
+.container-contato__lista-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.container-contato__lista-item img {
+    width: 20px;
+}

@@ -1,0 +1,25 @@
+.container-topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.img-logo {
+    width: 200px;
+}
+
+.navegacao__lista {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.navegacao__link {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(117, 115, 115);
+    padding: 5px;
+}

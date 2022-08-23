@@ -1,0 +1,36 @@
+#sobre {
+    margin: 20px 0;
+}
+
+.container-sobre {
+    text-align: center;
+
+}
+
+.container-sobre__card {
+    margin: 20px 0;
+}
+
+.container-sobre__assunto {
+    display: flex;
+    align-items: center;
+    border: 2px solid #ccc;
+    width: 100%;
+}
+
+.container-sobre__assunto img{
+    width: 50%;
+}
+
+.container-sobre__assunto h3 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.container-sobre__assunto p {
+    font-size: 27px;
+}
+
+.container-sobre__assunto  div{
+    padding: 10px;
+}
